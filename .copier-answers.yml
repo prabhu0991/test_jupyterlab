@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.4
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: yadav.prbkr@gmail.com
+author_name: apurva
+has_binder: false
+has_settings: false
+kind: server
+labextension_name: apurva
+project_short_description: A JupyterLab extension.
+python_name: apurva
+repository: y
+test: true
+
